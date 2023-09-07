@@ -17,9 +17,11 @@
 
   <div align = "center">
 
-[![](https://visitcount.itsvg.in/api?id=rence-scratch&label=Profile%20Views&color=3&icon=4&pretty=true)](https://visitcount.itsvg.in)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rencee) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/renceindex) 
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/divcenter) 
 </div>
+
+[![](https://visitcount.itsvg.in/api?id=rence-scratch&label=Profile%20Views&color=3&icon=4&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
 </p>    
