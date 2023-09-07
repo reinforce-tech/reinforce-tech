@@ -2,7 +2,7 @@
 
 <h1 style="color: #44AEFB;">  Hello There! </h1>
 
-<img src="https://github.com/rence-scratch/rence-scratch/blob/main/convertedPicture.jpg.jpg" style="width: 900px;">
+<img src="https://github.com/rence-scratch/rence-scratch/blob/main/convertedPicture.jpg.jpg" style="width: 650px;">
 
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
@@ -97,14 +97,3 @@
 
 </div>
 
-<hr>
-
-# 🏆 GitHub Trophies
-
-<div display="flex">
-
-## ![](https://github-profile-trophy.vercel.app/?username=rence-scratch&theme=chalk&no-frame=true&no-bg=false&margin-w=4)
-
-</div>
-
-<hr>
