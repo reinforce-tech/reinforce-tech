@@ -1,6 +1,6 @@
-### 👋.
+### 👋 Hello There!
 
-<h1 style="color: #44AEFB;">  Hello There! </h1>
+<br>
 
 <img src="https://github.com/rence-scratch/rence-scratch/blob/main/convertedPicture.jpg.jpg" width = "100%"  height="auto" >
 
