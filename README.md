@@ -2,7 +2,7 @@
 
 <h1 style="color: #44AEFB;">  Hello There! </h1>
 
-<img src="https://github.com/rence-scratch/rence-scratch/blob/main/convertedPicture.jpg.jpg" style="width: 650px;">
+<img src="https://github.com/rence-scratch/rence-scratch/blob/main/convertedPicture.jpg.jpg" width = "100%"  height="auto" >
 
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
