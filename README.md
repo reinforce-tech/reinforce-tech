@@ -72,8 +72,6 @@ Hello, I am John Clarence Palma Rence, for short. I am very passionate about pro
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
       <img  alt="Figma" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
   </a>
-  
- 
 </div>
 <br>
 <br>
