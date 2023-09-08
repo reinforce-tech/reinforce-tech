@@ -10,20 +10,18 @@ Hello, I am John Clarence Palma Rence, for short. I am very passionate about pro
 
 [Email Me](mailto:johnclarencepalma7@gmail.com)
 <br>
-<br>
 
   <div align = "center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rencee) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/renceindex) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rencee/)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/renceindex) 
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/divcenter) 
 </div>
-
-[![](https://visitcount.itsvg.in/api?id=rence-scratch&label=Profile%20Views&color=3&icon=4&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
 </p>    
 <br>
-<h2 style="color: #44AEFB"> <img src=" "> Languages and Tools</h2>
+<br>
+  <h2 style="color: #44AEFB"><img src= "https://github.com/rence-scratch/rence-scratch/blob/main/settings.png" height= "50px" width="auto" margin-bottom ="0">Languages and Tools</h2>
 <div align="center" style="display:block;">
     <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
 </div>
@@ -80,9 +78,9 @@ Hello, I am John Clarence Palma Rence, for short. I am very passionate about pro
 <br>
 <br>
 
-<h2 style="color: #44AEFB">📊 Statistics</h2>
+<h2 style="color: #44AEFB"><img src= "https://github.com/rence-scratch/rence-scratch/blob/main/dashboard-growth.png" height= "50px" width="auto" margin-bottom ="0">Statistics</h2>
 <div class="stats" align="center">
-
+  
 ![John Clarence Palma Stats](https://github-readme-stats.vercel.app/api?username=rence-scratch&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&border_radius=20)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rence-scratch&theme=gotham&hide_border=true&border_radius=20)
