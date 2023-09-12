@@ -81,8 +81,6 @@ Hello, I am John Clarence Palma Rence, for short. I am very passionate about pro
   
 ![John Clarence Palma Stats](https://github-readme-stats.vercel.app/api?username=rence-scratch&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&border_radius=20)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rence-scratch&theme=gotham&hide_border=true&border_radius=20)
-
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rence-scratch&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
