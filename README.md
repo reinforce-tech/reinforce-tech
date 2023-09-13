@@ -3,7 +3,7 @@
 
 <br>
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-Hello, I am John Clarence Palma Rence, for short. I am very passionate about programming, especially web development, and someday I want to be a full-stack web developer and make things the way I like them. I am currently in college and taking up a Bachelor of Science in Information Technology. I also work as a freelancer. I make static webpages and designs, and I like to learn various things along the way.
+Hello, I am John Clarence Palma Rence, for short. I am very passionate about programming, especially web development, and I am an Aspring full-stack web developer. I make things the way I like them. I am currently in college and taking up a Bachelor of Science in Information Technology. I also work as a freelancer. I make static webpages and designs, and I like to learn various things along the way.
 <br>
 <br>
 <div align="center">
