@@ -76,8 +76,8 @@ Hello, I am John Clarence Palma Rence, for short. I am very passionate about pro
 <br>
 <br>
 
-<h2 style="color: #44AEFB"><img src= "https://github.com/rence-scratch/rence-scratch/blob/main/dashboard-growth.png" height= "50px" width="auto" margin-bottom ="0">Statistics</h2>
-<div class="stats" align="center">
+
+
   
 
 
