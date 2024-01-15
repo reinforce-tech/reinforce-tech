@@ -1,4 +1,4 @@
-### 👋 Hello There!
+### Hello There!
 <img src="https://github.com/rence-scratch/rence-scratch/blob/main/convertedPicture.jpg.jpg" width = "100%"  height="auto" >
 
 <br>
