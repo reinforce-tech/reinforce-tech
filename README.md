@@ -3,7 +3,7 @@
 
 <br>
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-Hi there! I am John Clarence Palma Rence, for short. I am an Aspring full-stack web developer, and I have a strong enthusiasm for programming, particularly web development. I customize things to my liking. I'm pursuing a Bachelor of Science in Information Technology at my present college. In addition, I freelance. I create designs and static webpages, and I enjoy picking up new skills in the process.
+Hi there! I am John Clarence Palma, Rence or John for short. I am an Aspring full-stack web developer, and I have a strong enthusiasm for programming, particularly web development. I customize things to my liking. I'm pursuing a Bachelor of Science in Information Technology at my present college. In addition, I freelance. I create designs and static webpages, and I enjoy picking up new skills in the process.
 <br>
 <br>
 <div align="center">
